@@ -2,17 +2,19 @@
 
 # Attendence-Monitoring-System
 we use a fingerprint sensor to give attendance  and maintain a database for the same
+![attence_monitoring](https://user-images.githubusercontent.com/34301506/47965326-ab02a580-e06b-11e8-8d34-0e4dc5f5f3fe.png)
 
-# 1.enroll: It is used at the time of student registration
+
+# 1.Enroll: It is used at the time of student registration
 This is used to add details of  new student to our databse.
 the camera captures image of the student and  name along with student id is stored
-# 2.give atttendence:
+# 2.Give atttendence:
 This section asks the student to select the subject first and then give the attendence for the same 
-# 3.check attendence:
+# 3.Check attendence:
 This section diplays the attendence of a student based on the student unique id ,so that student can track his attendence.
 
 
-# files:
+# Files:
 1.arduino files:
 	A.original
 	B.code_with_lcd_display
