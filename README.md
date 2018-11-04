@@ -15,13 +15,13 @@ This section diplays the attendence of a student based on the student unique id 
 
 
 # Files:
-1.arduino files:
-	A.original
-	B.code_with_lcd_display
-2. python code.py
+## 1.arduino files:
+A.original
+B.code_with_lcd_display
+## 2. python code.py
 
  
-## Instructions to follow:
+# Instructions to follow:
 
 1. first connect the tx and rx of the finger print module to to pin 2,3 of arduino respectively .Also connect vcc and gnd
 
